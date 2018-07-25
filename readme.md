@@ -27,7 +27,7 @@ And such dataset does not suit Indian Environment which is very diverse in sense
 
 Detecting text in photographs has various applications like **It can help blind in mundane activities like locating an object in their surrounding, which can further assist them in shopping in the mall, in knowing the name of a product and other pieces of information**. 
 ![Sample 1](https://static.lokmat.news18.com/ibnlokmat/uploads/2016/12/BL10_OC_CORP_SMART_1783702f.jpg =250px)
-
+<img src="https://static.lokmat.news18.com/ibnlokmat/uploads/2016/12/BL10_OC_CORP_SMART_1783702f.jpg" width="250px">
 ###### Image Courtesy : IBN Lokmat.
 Similarly, text in the photograph when translated to a particular language can be of great help to a foreign as well as local tourist, since India is a diverse country and here languages changes from state to state. It can help them in navigate, purchase stuff and explore shops without language as a barrier.
 
