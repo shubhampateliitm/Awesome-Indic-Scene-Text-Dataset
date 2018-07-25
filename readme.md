@@ -39,7 +39,7 @@ There are many other applications possible.
 ## What Scene Text Images looks like ?
 Here are some images for the sample purpose :
 
-<img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/1.jpg" width="250px"><img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/2.jpg" width="250px"><img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/3.jpg" src="250px">
+<img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/1.jpg" width="250px"><img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/2.jpg" width="250px"><img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/3.jpg" width="250px">
 
    <img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/4.jpg" width="250x"><img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/6.jpg" width="250px"><img src="https://github.com/lifeisshubh/Awesome-Indic-Sene-Text-Dataset/raw/master/Sample/5.jpg" width="250px"> 
 
