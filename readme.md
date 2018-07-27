@@ -52,9 +52,8 @@ We can find Scene text at many places such as :
 ## How can you contribute ?
 You can send your own captured photograph containing scene text by following ways.
 1. You can mail images with language image contain as the subject(e.g. Tamil)(More e.g. Tamil, Telugu, Hindi) at indicSceneText@gmail.com.
-2. You can post images on Instagram with #IndicSceneText__Language__ in case of multilanguage use multiple hashtag for e.g. **#IndicSceneTextHindi** **#IndicSceneTextTelugu** **#IndicSceneTextTamil**.
-3. You and also share these photos using Google Photos.  Add photos to an album. Put the name of the album as "Language"(e.g. Hindi), if Hindi is the majority languages in the images. 
-4. Or you can directly contribute to specific language folder. Here are some tutorial for that. 
+2. You and also share these photos using Google Photos.  Add photos to an album. Put the name of the album as "Language"(e.g. Hindi), if Hindi is the majority languages in the images. 
+3. Or you can directly contribute to specific language folder. Here are some tutorial for that. 
 	> https://gist.github.com/MarcDiethelm/7303312, 
 	>https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
 
